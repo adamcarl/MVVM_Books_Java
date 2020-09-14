@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVM Books Java</string>
+    <string name="book_search">Book Search</string>
+    <string name="keyword">Keyword</string>
+    <string name="author">Author</string>
+    <string name="search">Search</string>
+</resources>
